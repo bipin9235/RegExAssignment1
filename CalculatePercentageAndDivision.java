@@ -1,9 +1,11 @@
-package till_selection_20_july;
 /*
- * Write a program to take input marks of five subjects and calculate the percentage and display
-	their division [>=75.00 Distinction, >=60.00 AND <75.00 First division, >=50.00 AND <60.00 Second
-	division, >=40.00 AND <50.00 Third division, <40.00 Fail]
+ * #Task2: Write a program to take input marks of five subjects and calculate the percentage and display their division 
+ 	    [>=75.00 Distinction, >=60.00 AND <75.00 First division, >=50.00 AND <60.00 Second division, >=40.00 AND <50.00 Third division, <40.00 Fail]
+   Registration ID: JIRSS1132
+   Name: Bipin Kumar
  */
+
+package till_selection_20_july;
 
 import java.util.Scanner;
 
