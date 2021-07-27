@@ -1,8 +1,9 @@
-package till_selection_20_july;
 /*
- * Write a program to calculate simple interest (make sure to take principle amount, interest rate
-and time period from console)
+   #Task6:Write a program to calculate simple interest (make sure to take principle amount, interest rate and time period from console)
+   Registration ID: JIRSS1132
+   Name: Bipin Kumar
  */
+package till_selection_20_july;
 
 import java.util.Scanner;
 
