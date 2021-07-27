@@ -1,7 +1,9 @@
-package till_selection_20_july;
 /*
- * Write a program to check whether the given year is leap year or not?
+   #Task4: Write a program to check whether the given year is leap year or not?
+   Registration ID: JIRSS1132
+   Name: Bipin Kumar
  */
+age till_selection_20_july;
 
 import java.util.Scanner;
 
