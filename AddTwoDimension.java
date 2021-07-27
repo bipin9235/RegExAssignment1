@@ -1,6 +1,7 @@
 package till_selection_20_july;
 /*
- * Sol.3: Write a program to add two dimensions (specified in foots and inches)
+ * Task#1: Write a program to add two dimensions (specified in foots and inches)
+ * 
  */
 
 import java.util.Scanner;
