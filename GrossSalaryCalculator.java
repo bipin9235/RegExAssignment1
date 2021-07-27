@@ -1,8 +1,9 @@
-package till_selection_20_july;
 /*
- * Write a program to calculate gross salary from following components
-	basic salary (in INR), hra (in percentage), da (in percentage), ta (in percentage), pf (in percentage)
- */
+   #Task3: Write a program to calculate gross salary from following components basic salary (in INR), hra (in percentage), da (in percentage), ta (in percentage), pf (in percentage)
+   Registration ID: JIRSS1132
+   Name: Bipin Kumar
+*/
+package till_selection_20_july;
 
 import java.util.Scanner;
 
